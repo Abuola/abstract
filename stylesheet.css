@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'GT America';
+    src: url('GTAmerica-Bold.eot');
+    src: url('GTAmerica-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GTAmerica-Bold.woff2') format('woff2'),
+        url('GTAmerica-Bold.woff') format('woff'),
+        url('GTAmerica-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT America';
+    src: url('GTAmerica-Bold_1.eot');
+    src: url('GTAmerica-Bold_1.eot?#iefix') format('embedded-opentype'),
+        url('GTAmerica-Bold_1.woff2') format('woff2'),
+        url('GTAmerica-Bold_1.woff') format('woff'),
+        url('GTAmerica-Bold_1.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
